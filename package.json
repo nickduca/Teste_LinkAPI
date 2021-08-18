@@ -1,0 +1,18 @@
+{
+  "name": "teste_linkapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "husky": "^7.0.1",
+    "jest": "^27.0.6",
+    "lint-staged": "^11.1.2",
+    "mongoose": "^5.13.7",
+    "standard": "^16.0.3"
+  }
+}
